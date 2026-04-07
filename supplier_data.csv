@@ -1,0 +1,11 @@
+Supplier_ID,Country,Reliability_Score,Avg_Lead_Time
+S1,Brazil,0.72,15
+S2,China,0.82,14
+S3,India,0.86,10
+S4,UK,0.68,27
+S5,USA,0.67,28
+S6,India,0.74,22
+S7,UK,0.72,9
+S8,China,0.84,14
+S9,India,0.9,27
+S10,UK,0.6,6
